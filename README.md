@@ -44,5 +44,5 @@ Every solution is:
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=00F7F7&center=true&vCenter=true&width=600&lines=📬+Hire+Me+:+stackive@gmail.com;⚡+Let's+build+something+legendary+together" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=00F7F7&center=true&vCenter=true&width=600&lines=📬+Hire+Me+:+stackive@gmail.com;⚡+Let's+build+something+legendary+together" />
 </p>
