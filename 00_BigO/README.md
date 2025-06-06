@@ -1,6 +1,10 @@
-# Big O Notation Explained Simply
+# <p align="center">Big O Notation Explained Simply</p>
 
-*Understanding how algorithms perform as data grows.*
+<p align="center"><i>Understanding how algorithms perform as data grows.</i></p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Level-Beginner%20Friendly-0f0f0f?style=for-the-badge&logo=python" />
+</p>
 
 ---
 
@@ -110,4 +114,4 @@ Common operations and their time complexities:
 
 ---
 
-For a comprehensive reference, visit the [Big O Cheat Sheet](https://www.bigocheatsheet.com/).
+🔗 For a comprehensive reference, visit the [Big O Cheat Sheet](https://www.bigocheatsheet.com/).
